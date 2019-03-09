@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Definition of End to End User Scenarios"
+title:      "Analyzing quantitative data"
 date:       2015-03-31 
 author:     "Youth"
-header-img: "img/post-bg-e2e-ux.jpg"
+header-img: ""
 lang: en
 tags:
-  - UX/UI
-  - 🇬🇧
+  - 金融
+  - 编程
 ---
 
 

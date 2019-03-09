@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "「译」iOS 9，为前端世界都带来了些什么？"
-subtitle:   "iOS 9, Safari and the Web: 3D Touch, new Responsive Web Design, Native integration and HTML5 APIs"
-date:       2015-12-15
+title:      "区块链有未来吗？"
+subtitle:   "这里的未来指的既是币价，也是技术落地"
+date:       2019-02-15
 author:     "Youth"
-header-img: "img/post-bg-ios9-web.jpg"
+header-img: ""
 catalog:    true
 tags:
-    - Web
-    - 译
+    - 价值投资
+    - 区块链
 ---
 

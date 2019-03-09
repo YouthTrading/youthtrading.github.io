@@ -1,10 +1,10 @@
 ---
 layout:       post
-title:        "饿了么的 PWA 升级实践"
-subtitle:     "Upgrading Ele.me to Progressive Web App"
+title:        "如何在技术上成长很快"
+subtitle:     "How to grow up on technology fast"
 date:         2017-07-12 12:00:00
 author:       "Youth"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-img:   ""
 header-mask:  0.3
 catalog:      true
 multilingual: true

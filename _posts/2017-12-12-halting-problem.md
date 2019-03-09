@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "「知乎」如何通俗地解释停机问题？"
-subtitle: "How to explain the Halting Problem?"
+title: "程序员会修电脑吗"
+subtitle: ""
 author: "Youth"
-header-img: "img/post-bg-halting.jpg"
+header-img: ""
 header-mask: 0.3
 tags:
-  - 知乎
+  - 程序员
   - 计算机科学
   - 计算理论
 ---

@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      "JavaScript Module Loader"
-subtitle:   "CommonJS，RequireJS，SeaJS 归纳笔记"
+title:      "大理，我来了！"
+subtitle:   ""
 date:       2015-05-25
 author:     "Youth"
-header-img: "img/post-bg-js-module.jpg"
+header-img: ""
 catalog: true
 tags:
-    - 笔记
+    - 成长
     - Web
-    - JavaScript
 ---
 
 

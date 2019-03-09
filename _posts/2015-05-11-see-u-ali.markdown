@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "See you, Alibaba "
+title:      "See you, zhaocaimao "
 subtitle:   "再见，招财猫。"
-date:       2015-05-11
+date:       2016-05-11
 author:     "Youth"
-header-img: "img/post-bg-see-u-ali.jpg"
+header-img: ""
 tags:
   - 生活
   - 公司
