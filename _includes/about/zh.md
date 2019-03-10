@@ -2,7 +2,7 @@
 > 刻苦读书，谦卑做人。
 
 Hey，我是Youth，喜欢金融，目前从事编程以及区块链运营，多出没于[博客](https://huangxinglong.github.io/)、[微博](https://weibo.com/6938223999/profile?rightmod=1&wvr=6&mod=personinfo
-)、[知乎](https://www.zhihu.com/people/molly-20-83/activities
+)、[知乎](https://www.zhihu.com/people/molly-20-83
 )、[Github](http://github.com/huangxinglong)、[B站](https://space.bilibili.com/388565246
 ) 等地带。
 
