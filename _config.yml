@@ -135,5 +135,8 @@ friends: [
     },{
         title: "解旻的博客",
         href: "http://xieminis.me/"
+    },{
+        title: "阮一峰的博客",
+        href: "http://www.ruanyifeng.com/home.html"
     }
 ]
