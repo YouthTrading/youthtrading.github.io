@@ -146,7 +146,7 @@ We indeed encountered this problem when testing our new beautiful Skeleton Scree
 ![](/img/in-post/post-eleme-pwa/nextTick-&-Load.png)
 
 
-I think you may curious about how this change performs in the wild, so I have refined MMPWA by rendering 5000 list items rather 1000 to make the differences more obvious, and by designing it in an A/B testing manner. The code is on [Github](https://github.com/Huxpro/mmpwa) and the demo is live on [huangxuan.me/mmpwa/](https://huangxuan.me/mmpwa). Here is also a video for loungers.
+I think you may curious about how this change performs in the wild, so I have refined MMPWA by rendering 5000 list items rather 1000 to make the differences more obvious, and by designing it in an A/B testing manner. The code is on [Github](https://github.com/huangxinglong) and the demo is live on [huangxuan.me/mmpwa/](https://huangxuan.me/mmpwa). Here is also a video for loungers.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Ws7XBHrPD8" frameborder="0" allowfullscreen></iframe>
@@ -163,7 +163,7 @@ Huge improvements right?  This time we hit First Paint (Skeleton Screen Paint) a
 
 ### One more thing that I deferred
 
-But wait, why is there still a bunch of guiltily parser-blocking scripts? Are them all `async`? OK, ok. For historical reasons, we do keep some parser-blocking scripts, like [lib-flexible](https://github.com/amfe/lib-flexible), we couldn't get rid of it without a huge refactoring. But most of these blocking scripts are in fact `defer`. We expected that they can be executed after parsing and in order, however the profile kinda slap on my face. :(
+But wait, why is there still a bunch of guiltily parser-blocking scripts? Are them all `async`? OK, ok. For historical reasons, we do keep some parser-blocking scripts, like [lib-flexible](https://github.com/huangxinglong), we couldn't get rid of it without a huge refactoring. But most of these blocking scripts are in fact `defer`. We expected that they can be executed after parsing and in order, however the profile kinda slap on my face. :(
 
 Remember I said I would talk about one issue of `defer` previously? Yes, that's it. I have had a [conversation](https://twitter.com/Huxpro/status/859842124849827841) with [Jake Archibald](https://twitter.com/jaffathecake) and it turns out it might be a bug of Chrome when the deferred scripts are fully cached. [Vote it at crbug](https://bugs.chromium.org/p/chromium/issues/detail?id=717979)!
 
