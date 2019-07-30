@@ -8,7 +8,7 @@ Hey，我是Youth，喜欢金融，目前从事编程以及区块链运营，多
 
 职业是软件工程师,目前在一家区块公司做技术运营。热爱金融行业，以及程序化交易。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huangxinglong) 
+一些作品和开源软件项目，👉 戳 [Tradingview](https://cn.tradingview.com/u/huangxinglong/)、[Github](http://github.com/huangxinglong) 
 
 
 ##### Talks
