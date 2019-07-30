@@ -11,6 +11,6 @@ Hey, I am Youth, I like finance, I am currently engaged in programming and block
 
 Occupation is a software engineer and currently works in a block company. Love the financial industry, as well as programmatic trading.
 
-Some works and open source software projects, 戳 stamp [Tradingview] (https://cn.tradingview.com/u/huangxinglong/), [Github] (http://github.com/huangxinglong)
+Some works and open source software projects, 👉戳 stamp [Tradingview] (https://cn.tradingview.com/u/huangxinglong/), [Github] (http://github.com/huangxinglong)
 
 
