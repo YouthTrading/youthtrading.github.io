@@ -13,7 +13,7 @@ Hey，我是Youth，喜欢金融，目前从事编程以及区块链运营，多
 
 ##### Talks
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
+<!-- - [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
 - Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
 - The State of Progressive Web App · GDG IO Redux 北京 2017
 - 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
@@ -31,4 +31,4 @@ Hey，我是Youth，喜欢金融，目前从事编程以及区块链运营，多
 [6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+[9]: //huangxuan.me/jsconfcn2017/ -->
