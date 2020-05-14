@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "区块链资源汇总"
-subtitle:   " Hello World, Hello Blog"
+subtitle:   "区块链是阶层升华的最佳媒介"
 date:       2019-02-15 12:00:00
 author:     "Youth"
 header-img: "img/post-bg-2015.jpg"
