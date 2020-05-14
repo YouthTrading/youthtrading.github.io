@@ -1,6 +1,5 @@
 ---
 layout:     post
-url:        https://https://huangxinglong.github.io/
 title:      "Hello 2017"
 subtitle:   "\"Hello World, Hello Blog\""
 date:       2017-06-12 12:00:00

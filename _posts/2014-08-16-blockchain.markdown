@@ -1,6 +1,5 @@
 ---
 layout:     post
-url:        https://https://huangxinglong.github.io/
 title:      "区块链资源汇总"
 subtitle:   "\"区块链是阶层升华的最佳媒介\""  
 date:       2019-02-15 12:00:00

@@ -1,6 +1,5 @@
 ---
 layout:     post
-url:        https://https://huangxinglong.github.io/
 title:      "程序员进阶指南"
 subtitle:   "\"a developer how to growup\""  
 author:     "Youth"
