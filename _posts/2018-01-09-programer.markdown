@@ -3,8 +3,9 @@ layout: post
 title: "程序员进阶指南"
 subtitle: "a developer how to growup"
 author: "Youth"
-header-img: ""
-header-bg-css: "linear-gradient(to right, #24b94a, #38ef7d);"
+date:       2019-02-15 12:00:00
+author:     "Youth"
+header-img: "img/post-bg-2015.jpg"
 tags:
   - Web
 ---
