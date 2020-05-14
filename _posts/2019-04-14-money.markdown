@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "工作是财富自由路上最大的陷阱"
-subtitle:   "\"不要勤奋工作来掩护自己的不作为\""  
-date:       2020-05-14 21:00:00
+subtitle:   "\"不要用勤奋工作来掩护自己的不作为\""  
+date:       2019-10-14 21:00:00
 author:     "Youth"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-rwd.jpg"
 tags:
     - 工作
     - 财富

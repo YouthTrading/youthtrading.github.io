@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "区块链资源汇总"
-subtitle:   "\"区块链是阶层升华的最佳媒介\""  
+subtitle:   "\"阶层升华的最佳媒介\""  
 date:       2019-02-15 12:00:00
 author:     "Youth"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-rwd.jpg"
 tags:
     - 区块链
     - 量化交易
