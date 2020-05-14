@@ -1,7 +1,8 @@
 ---
 layout:     post
+url:        https://https://huangxinglong.github.io/
 title:      "工作是财富自由路上最大的陷阱"
-subtitle:   "不要勤奋工作来掩护自己的不作为"
+subtitle:   "\"不要勤奋工作来掩护自己的不作为\""  
 date:       2020-05-14 21:00:00
 author:     "Youth"
 header-img: "img/post-bg-2015.jpg"
