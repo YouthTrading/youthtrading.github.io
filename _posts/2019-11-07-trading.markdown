@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Hello 2019"
+subtitle:   "\"Hello World, Hello Blog\""
+date:       2020-01-01 12:00:00
+author:     "Youth"
+header-img: "img/post-bg-alitrip.jpg"
+catalog: true
+tags:
+    - 生活
+    - 交易
+---
+
+第一次接了很大一笔钱做交易
