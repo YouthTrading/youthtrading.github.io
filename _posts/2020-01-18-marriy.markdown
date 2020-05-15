@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2019"
-subtitle:   "\"Hello World, Hello Blog\""
+title:      "结婚了"
+subtitle:   "\"执子之手，与子偕老\""
 date:       2020-01-01 12:00:00
 author:     "Youth"
 header-img: "img/post-bg-alitrip.jpg"

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello 2019"
-subtitle:   "\"Hello World, Hello Blog\""
+title:      "裸辞-比原链"
+subtitle:   "\"全职去做交易\""
 date:       2020-01-01 12:00:00
 author:     "Youth"
 header-img: "img/post-bg-alitrip.jpg"
