@@ -2,7 +2,7 @@
 layout:     post
 title:      "停止做交易"
 subtitle:   "\"可能是最正确的决定\""
-date:       2020-01-01 12:00:00
+date:       2020-05-15 12:00:00
 author:     "Youth"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true

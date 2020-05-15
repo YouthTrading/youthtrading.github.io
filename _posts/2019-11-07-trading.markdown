@@ -2,7 +2,7 @@
 layout:     post
 title:      "第一次做资产管理"
 subtitle:   "\"总是很容易获得信任\""
-date:       2020-01-01 12:00:00
+date:       2019-11-07 12:00:00
 author:     "Youth"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
