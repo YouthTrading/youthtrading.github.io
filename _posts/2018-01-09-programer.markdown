@@ -5,9 +5,10 @@ subtitle:   "\"是该有个职业规划了\""
 author:     "Youth"
 date:       2018-10-09 12:00:00
 author:     "Youth"
-header-img: "img/post-bg-rwd.jpg"
+header-img: "img/trade-0.jpeg"
 tags:
-  - Web
+  - 编程
+  - 职业规划
 ---
 
 由于大学不学无术，整个人比较迷茫。所以在大学快毕业的时候为了好找到工作，所以选择了程序员这个职业。
