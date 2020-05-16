@@ -4,7 +4,7 @@
 > Study hard, be humble and behave.
 
 
-Hey, I am Youth, I like finance, I am currently engaged in programming and blockchain operations. I am more than [blog](https://huangxinglong.github.io/), [weibo](https://weibo.com/ 6938223999/profile?rightmod=1&wvr=6&mod=personinfo
+Hey, I am Youth, I like finance, I am currently engaged in programming and blockchain operations. I am more than [blog](https://huangxinglong.github.io/), [weibo](https://weibo.com/6597050009/profile?topnav=1&wvr=6&is_all=1
 ), [Zhihu](https://www.zhihu.com/people/molly-20-83
 ), [Github](http://github.com/huangxinglong), [Bibi](https://space.bilibili.com/388565246
 ) and other areas.
