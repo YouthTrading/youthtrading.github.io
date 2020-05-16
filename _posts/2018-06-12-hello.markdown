@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Hello 2018"
+subtitle:   "\"Hello World, Hello Blog\""
+date:       2018-06-12 12:00:00
+author:     "Youth"
+header-img: "img/hello-0.png"
+catalog: true
+tags:
+    - 生活
+---
+
+> “Study hard and be humble in the waiting days. ”
+
+
+**前言**
+
+工作快一年后，突然想除了工作之外还想做点事。Youth 的 blog 这么开通了。
+
+2018年中旬了，转眼马上毕业1年了。突然想静下来，找个地方好好写点东西。
+
+
+
+
