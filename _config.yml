@@ -3,8 +3,8 @@ title: Youth Blog
 SEOTitle: youth的博客 | Youth Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | Youth，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Youth 的个人博客，与你一起发现更大的世界。"
-keyword: "Youth, Youth, Youth的博客, Youth Blog, 博客, 个人网站, 互联网, Web, Golang, 后端, 设计"
+description: "这里是 @Youth 的个人博客，与你一起发现更大的世界。"
+keyword: "Youth, Youth, Youth的博客, Youth Blog, 博客, 个人网站, 互联网, 区块链, 数字货币, 交易"
 url: "https://huangxinglong.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
