@@ -5,7 +5,7 @@ subtitle:   "\"是该有个职业规划了\""
 author:     "Youth"
 date:       2018-10-09 12:00:00
 author:     "Youth"
-header-img: "img/trade-0.jpeg"
+header-img: "img/post-bg-rwd.jpg"
 tags:
   - 编程
   - 职业规划

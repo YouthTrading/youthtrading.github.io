@@ -4,7 +4,7 @@ title:      "我的交易系统"
 subtitle:   "\"不赚钱的经济人都是废人\""
 date:       2020-03-12 12:00:00
 author:     "Youth"
-header-img: "img/post-bg-alitrip.jpg"
+header-img: "img/trade-0.png"
 catalog: true
 tags:
     - 交易
