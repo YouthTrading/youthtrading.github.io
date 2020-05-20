@@ -4,7 +4,7 @@ title:      "27岁了"
 subtitle:   "\"突然有点慌了\""
 date:       2020-05-20 12:00:00
 author:     "Youth"
-header-img: "img/home-bg-o.png"
+header-img: "img/home-bg-o.jpg"
 catalog: true
 tags:
     - 成长
