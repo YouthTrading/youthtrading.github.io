@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "《大佛顶首楞严经》之“七处征心”！"
+title:      "《楞严经》之“七处征心”！"
 subtitle:   "\"朋友介绍的宗教类书籍\""
-date:       2020-05-20 12:00:00
+date:       2020-06-04 12:00:00
 author:     "Youth"
 header-img: "img/home-bg-o.jpg"
 catalog: true
