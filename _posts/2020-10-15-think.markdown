@@ -2,7 +2,7 @@
 layout:     post
 title:      "区块链是普通人唯一可以参与的高科技行业”！"
 subtitle:   "\"参与印钞机的行业才能改变阶级\""
-date:       2020--10--15 12:00:00
+date:       2020-10-16 2:00:00
 author:     "Youth"
 header-img: "img/think.jpeg"
 catalog: true
