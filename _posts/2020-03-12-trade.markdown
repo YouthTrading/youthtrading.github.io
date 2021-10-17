@@ -4,7 +4,7 @@ title:      "我的交易系统"
 subtitle:   "\"不赚钱的经济人都是废人\""
 date:       2020-03-12 12:00:00
 author:     "Youth"
-header-img: "img/trade-0.png"
+header-img: "img/trade/1.png"
 catalog: true
 tags:
     - 交易
@@ -26,15 +26,15 @@ tags:
 
 **观察系统**
 
-![imae](/img/trade-1.png)
+![imae](/img/trade/2.png)
 
 **预警系统**
 
-![imae](/img/trade-2.png)
+![imae](/img/trade/3.png)
 
 **交易策略**
 
-![imae](/img/trade-3.png)
+![imae](/img/trade/4.png)
 
 **执行系统**
 
@@ -42,6 +42,6 @@ tags:
 
 **安全系统**
 
-![imae](/img/trade-4.png)
+![imae](/img/trade/5.png)
 
 当一个人脑子看不到的时候，眼睛也是看不到的。我坚信成功的投资者成功之关键是他们的思维方式，而不是使用什么技术。希望大家通过对这套交易系统的了解提升自己的思考方式，成为一个成功的投资者。
