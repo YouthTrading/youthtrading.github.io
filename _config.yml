@@ -14,8 +14,6 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     6938223999
-zhihu_username:     molly-20-83
-github_username:    youthtrading
 twitter_username:   younger37778291
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
