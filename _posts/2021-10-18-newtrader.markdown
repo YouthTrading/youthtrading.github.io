@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "致新投资者书"
-subtitle:   "\"Hello Trading, Hello new myself\""
+title:      "致新投资者"
+subtitle:   "\"摘抄至雷公雪球\""
 date:       2021-10-20 12:00:00
 author:     "Youth"
-header-img: "img/hello-0.png"
+header-img: "img/hello-2.png"
 catalog: true
 tags:
     - 投资

@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "投资能为你带来什么？"
-subtitle:   "\"Hello Trading, Hello new myself\""
+subtitle:   "\"摘抄至雷公雪球\""
 date:       2021-10-20 12:00:00
 author:     "Youth"
-header-img: "img/hello-0.png"
+header-img: "img/hello-1.png"
 catalog: true
 tags:
     - 投资

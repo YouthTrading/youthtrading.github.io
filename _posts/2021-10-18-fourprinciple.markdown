@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello Trading"
-subtitle:   "\"Hello Trading, Hello new myself\""
+title:      "图形交易的四项基本原则"
+subtitle:   "\"大量,缺口, 密集成交区,MACD 背离\""
 date:       2021-10-18 12:00:00
 author:     "Youth"
 header-img: "img/hello-0.png"
