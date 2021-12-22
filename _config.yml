@@ -1,10 +1,10 @@
 # Site settings
 title: Youth Trading
-SEOTitle: youth的交易 | Youth Trading
+SEOTitle: Youths | Youths Trading
 header-img: img/home-bg.jpg
 email: hxl12344321@gmail.com
 description: "这里是 @Youth 的个人交易成长博客，与你一起发现更大的世界。"
-keyword: "Youth, Youth, Youth的交易博客, Youth Trading, 博客, 个人交易, 交易, 区块链, 数字货币, 交易"
+keyword: "Youths, Youths, Youths的交易博客, Youth Trading, 博客, 个人交易, 交易, 区块链, 数字货币, 交易"
 url: "https://youthtrading.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
