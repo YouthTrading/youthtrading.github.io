@@ -106,10 +106,10 @@ friends: [
         title: "tradingview",
         href: "https://www.tradingview.com/u/huangxinglong/"
     },{
-        title: "量化交易平台",
+        title: "Quantify Plateform",
         href: "https://www.fmz.com"
     },{
-        title: "量化学习资料",
+        title: "Quantify Learning",
         href: "https://quant.la"
     },{
         title: "Blockchain",
@@ -118,7 +118,7 @@ friends: [
         title: "tensorcharts",
         href: "https://tensorcharts.com"
     },{
-        title: "阿布量化",
+        title: "Abu Quantify",
         href: "https://blog.abuquant.com"
     },{
         title: "godoc",
@@ -130,7 +130,7 @@ friends: [
         title: "Coinmarketcap",
         href: "https://coinmarketcap.com"
     },{
-        title: "雷公Youtobe",
+        title: "LEI & LoneCapital Youtobe",
         href: "https://www.youtube.com/c/LEILoneCapital"
     }
 ]
